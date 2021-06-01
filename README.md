@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, I'm Cynthia 👋
 
-<!--
-**ciradu2204/ciradu2204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a passionate full stack developer from Rwanda
+ 
+- 🔭 I’m currently working on developing a ["smart" shopping list](https://tcl-25-shopping-list.web.app/) and improving my data structure/ algorithm skills
+- 🌱 I’m currently learning React
+- 👯 I’m looking to collaborate with other developers
+- :goal_net: 2021 Goal: contribute more to open source project
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I love listening to audiobooks and playing sports:basketball: :volleyball:
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Cynthia's GitHub stats](https://github-readme-stats.vercel.app/api?username=ciradu2204&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+
