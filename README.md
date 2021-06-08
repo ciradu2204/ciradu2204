@@ -2,7 +2,7 @@
 
 ## I'm a passionate full stack developer from Rwanda
  
-- 🔭 I’m currently working on developing a ["smart" shopping list](https://tcl-25-shopping-list.web.app/) and improving my data structure/ algorithm skills
+- 🔭 I’m currently working on developing a ["smart" shopping list](https://github.com/the-collab-lab/tcl-25-smart-shopping-list) and improving my data structure/ algorithm skills
 - 🌱 I’m currently learning React 
 - 👯 I’m looking to collaborate with other developers
 - :goal_net: 2021 Goal: contribute more to open source projects
