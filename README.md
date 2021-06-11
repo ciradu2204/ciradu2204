@@ -1,9 +1,9 @@
 ### Hi there, I'm Cynthia 👋
 
-## I'm a passionate full stack developer from Rwanda
+## I'm a passionate Front-End Developer from Rwanda
  
-- 🔭 I’m currently working on developing a ["smart" shopping list](https://github.com/the-collab-lab/tcl-25-smart-shopping-list) and improving my data structure/ algorithm skills
-- 🌱 I’m currently learning React 
+- 🔭 I’m currently working on developing a [Natural Disasters Tracker ](https://github.com/ciradu2204/NaturalDisasters-Tracker).
+- 🌱 I’m currently learning Vue and DataStructures/Algorithms 
 - 👯 I’m looking to collaborate with other developers
 - :goal_net: 2021 Goal: contribute more to open source projects
 - 😄 Pronouns: She/Her
