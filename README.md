@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate with other developers
 - :goal_net: 2021 Goal: contribute more to open source projects
 - 😄 Pronouns: She/Her
-- ⚡ Hobbies: I love reading and playing sports:basketball: :volleyball:
+- ⚡ Hobbies: Music and playing sports:basketball: :volleyball:
 
 
 [![Cynthia's GitHub stats](https://github-readme-stats.vercel.app/api?username=ciradu2204&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
