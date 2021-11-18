@@ -2,8 +2,8 @@
 
 ## I'm a passionate Front-End Developer from Rwanda
  
-- 🔭 I’m currently working on developing a [Natural Disasters Tracker ](https://github.com/ciradu2204/NaturalDisasters-Tracker).
-- 🌱 I’m currently learning Vue and DataStructures/Algorithms 
+- 🔭 I’m currently working on designing and developing a [Training App Tracker](https://www.figma.com/file/DwbSJzgpxXu7tmemz7Fgyg/Training-tracker?node-id=0%3A1).
+- 🌱 I’m currently learning React and DataStructures/Algorithms 
 - 👯 I’m looking to collaborate with other developers
 - :goal_net: 2021 Goal: contribute more to open source projects
 - 😄 Pronouns: She/Her
