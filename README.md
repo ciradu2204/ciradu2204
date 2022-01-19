@@ -1,11 +1,11 @@
 ### Hi there, I'm Cynthia 👋
 
-## I'm a passionate Front-End Developer from Rwanda
+## I'm a passionate Software Developer from Rwanda
  
-- 🔭 I’m currently working on designing and developing a [Training App Tracker](https://www.figma.com/file/DwbSJzgpxXu7tmemz7Fgyg/Training-tracker?node-id=0%3A1).
-- 🌱 I’m currently learning React and DataStructures/Algorithms 
-- 👯 I’m looking to collaborate with other developers
-- :goal_net: 2021 Goal: contribute more to open source projects
+- 🔭 Developing [A Simple Training App Tracker](https://www.figma.com/file/DwbSJzgpxXu7tmemz7Fgyg/Training-tracker?node-id=0%3A1) using React, MongoDb, and MUI. 
+- 🌱 I’m currently working towards becoming AWS certified solution architect.
+- 👯 I’m looking to collaborate with other developers.
+- :goal_net: 2022 Goal: Improve my problem solving skills (Datastructures/Algorithms). 
 - 😄 Pronouns: She/Her
 - ⚡ Hobbies: Music and playing sports:basketball: :volleyball:
 
