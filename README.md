@@ -10,6 +10,6 @@
 - ⚡ Hobbies: Music and playing sports:basketball: :volleyball:
 
 
-[![Cynthia's GitHub stats](https://github-readme-stats.vercel.app/api?username=ciradu2204&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Cynthia's GitHub stats](https://github-readme-stats.vercel.app/api?username=ciradu2204&show_icons=true&theme=cobalt&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
