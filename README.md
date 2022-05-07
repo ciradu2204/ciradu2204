@@ -3,7 +3,7 @@
 ## I'm a passionate Software Developer from Rwanda
  
 - 🔭 Developing [A Simple Training App Tracker](https://github.com/ciradu2204/TrainingTracker-doit) using React, MongoDb, and MUI. 
-- 🌱 I’m currently working towards becoming AWS certified solution architect.
+- 🌱 I’m currently working towards becoming AWS certified solutions architect.
 - 👯 I’m looking to collaborate with other developers.
 - :goal_net: 2022 Goal: Improve my problem solving skills (Datastructures/Algorithms). 
 - 😄 Pronouns: She/Her
