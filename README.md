@@ -2,7 +2,7 @@
 
 ## I'm a passionate Software Developer from Rwanda
  
-- 🔭 Developing [She Mentors Africa](https://github.com/ciradu2204/SheMentorsAfrica) using React and AWS Amplify. 
+- 🔭 Building [She Mentors Africa](https://github.com/ciradu2204/SheMentorsAfrica) using React and AWS Amplify. 
 - 👯 I’m looking to collaborate with other developers.
 - :goal_net: 2022 Goal: Improve my problem solving skills (Datastructures/Algorithms). 
 - 😄 Pronouns: She/Her
