@@ -1,6 +1,6 @@
 ### Hi there, I'm Cynthia 🇷🇼 
 
-A junior developer with a computing degree and one year of experience building web applications. 
+A junior developer with a computing degree and one year of experience building applications. 
  
 - 🔭 Building [She Mentors Africa](https://github.com/ciradu2204/SheMentorsAfrica) using React and AWS Amplify. 
 - 👯 I’m looking to collaborate with other developers.
