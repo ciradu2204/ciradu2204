@@ -2,7 +2,7 @@
 
 A junior developer with a computing degree and one year of experience building applications. 
  
-- 🔭 Contributing to ChRIS UI, Boston Children's Hospital Project, using React and TypeScript
+- 🔭 Contributing to open source projects.
 - 👯 I’m looking for a full time job.
 - :goal_net: 2023 Goals: Empower more women in tech as a Women Techmakers Ambassador(WTM) and write 12 technical blogs. 
 - 😄 Pronouns: She/Her
