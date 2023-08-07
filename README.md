@@ -1,12 +1,11 @@
 ### Hi there, I'm Cynthia 🇷🇼 
 
-A junior developer with a computing degree and one year of experience building applications.
+A Software developer with a strong passion in web development using Mern stack and AWS.
  
 - 🔭 Contributing to open source projects including [Chris UI](https://github.com/FNNDSC/ChRIS_ui) and [Layer5](https://github.com/meshery/meshery.io)
-- 👯 I’m looking for a full time job.
-- :goal_net: 2023 Goals: Empower more women in tech as a Women Techmakers Ambassador(WTM), create a strong AWS community in Kigali, and become a better coder. 
+- 🥅 Grow tech communities in Rwanda as [GDG](https://gdg.community.dev/gdg-kigali/) Organiser, [WTM](https://developers.google.com/womentechmakers) Ambassador, and [AWS User Group Kigali](https://www.meetup.com/aws-user-group-kigali/) Lead. 
 - 😄 Pronouns: She/Her
-- ⚡ Hobbies: Music, dancing, and playing sports:basketball: :volleyball:
+- ⚡ Hobbies: Singing, Cooking😋, and playing sports 🏀 🏐 🥾
 
 [![Cynthia's GitHub stats](https://github-readme-stats.vercel.app/api?username=ciradu2204&show_icons=true&theme=cobalt&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
