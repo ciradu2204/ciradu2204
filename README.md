@@ -1,3 +1,5 @@
+<base target="_blank">
+
 ### Hi there, I'm Cynthia 🇷🇼 
 
 A Software developer with a strong passion in web development using Mern stack and AWS.
